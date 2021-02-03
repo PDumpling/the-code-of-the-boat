@@ -18,9 +18,12 @@ controller.A.onEvent(ControllerButtonEvent.Pressed, function () {
         . . . . . . . . . . . . . . . .
     `, mySprite, 100, 0)
 })
-sprites.onOverlap(SpriteKind.Player, SpriteKind.mySprite., function (sprite, otherSprite) {
-	
+
+
+sprites.onOverlap(SpriteKind.Player, SpriteKind.Enemy, function(sprite: Sprite, otherSprite: Sprite) {
+    
 })
+
 let mySprite2: Sprite = null
 scene.setBackgroundColor(3)
 let mySprite = sprites.create(img`
