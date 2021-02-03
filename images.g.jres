@@ -1,0 +1,9 @@
+{
+    "image3": "hwQQABAAAAAAAAAAAAAAAAAA////DwAAAPAiIiLyAAAALyIiIiIPAPAiIiIvIvIA8CLyIvIi8gDwIiIi8iLyAPAiIiLyIvIA8CIiIvIi8gDwIvIi8iLyAPASIiIvEvIAAC8REREhDwAA8CIiIvIAAAAA////DwAAAAAAAAAAAAAAAAAAAAAAAA==",
+    "image4": "hwQQABAAAAAAAPD///8AAAAAPzMzMw8AAPAzMzMz8wAAPzMxMzMzDwA/Mz8zPzMPAD8zMzM/Mw8APzMzMz8zDwA/MzEzPzMPAD8zPzM/Mw8APxMzMxMzDwDwMxERMfMAAAA/MzMzDwAAAPD///8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
